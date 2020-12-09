@@ -5,4 +5,4 @@ I'm trying to learn something like golang,python,mysql and centos.
 
 this is a tool that may help you to manage your password。
 
-![Image text](https://github.com/XyxH/password_manager/blob/master/key_monther.png)
+![Image](https://github.com/XyxH/password_manager/blob/master/key_monther.png)
